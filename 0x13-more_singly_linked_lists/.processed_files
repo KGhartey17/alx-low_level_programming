@@ -10,3 +10,4 @@
 8-sum_listint.c
 9-insert_nodeint.c
 lists.h
+0-print_listint.c
