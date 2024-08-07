@@ -1,15 +1,19 @@
 
-========== 102-free_listint_safe.c ==========
-free_listint_safe
-
-========== 102-main.c ==========
+========== 0-main.c ==========
 main
 
-========== 103-find_loop.c ==========
-find_listint_loop
+========== 0-print_listint.c ==========
+print_listint
 
-========== 103-main.c ==========
+========== 100-main.c ==========
 main
 
-========== 10-delete_nodeint.c ==========
-delete_nodeint_at_index
+========== 100-reverse_listint.c ==========
+reverse_listint
+
+========== 101-main.c ==========
+main
+
+========== 101-print_listint_safe.c ==========
+looped_listint_len
+print_listint_safe
