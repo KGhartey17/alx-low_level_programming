@@ -29,3 +29,143 @@ find_listint_loop
 
 ========== 103-main.c ==========
 main
+
+========== 10-delete_nodeint.c ==========
+delete_nodeint_at_index
+
+========== 10-main.c ==========
+
+========== 1-listint_len.c ==========
+listint_len
+
+========== 1-main.c ==========
+1-main.c:13: WARNING: please, no spaces at the start of a line
+1-main.c:14: WARNING: please, no spaces at the start of a line
+1-main.c:15: WARNING: please, no spaces at the start of a line
+1-main.c:16: WARNING: please, no spaces at the start of a line
+1-main.c:18: WARNING: please, no spaces at the start of a line
+1-main.c:19: WARNING: please, no spaces at the start of a line
+1-main.c:20: WARNING: please, no spaces at the start of a line
+1-main.c:21: WARNING: please, no spaces at the start of a line
+1-main.c:22: ERROR: code indent should use tabs where possible
+1-main.c:22: WARNING: please, no spaces at the start of a line
+1-main.c:23: ERROR: code indent should use tabs where possible
+1-main.c:23: WARNING: please, no spaces at the start of a line
+1-main.c:24: WARNING: please, no spaces at the start of a line
+1-main.c:25: WARNING: please, no spaces at the start of a line
+1-main.c:26: WARNING: please, no spaces at the start of a line
+1-main.c:27: WARNING: please, no spaces at the start of a line
+1-main.c:28: WARNING: please, no spaces at the start of a line
+1-main.c:29: WARNING: please, no spaces at the start of a line
+1-main.c:30: WARNING: please, no spaces at the start of a line
+1-main.c:31: WARNING: please, no spaces at the start of a line
+total: 2 errors, 18 warnings, 32 lines checked
+main
+
+========== 2-add_nodeint.c ==========
+add_nodeint
+
+========== 2-main.c ==========
+2-main.c:13: WARNING: please, no spaces at the start of a line
+2-main.c:15: WARNING: please, no spaces at the start of a line
+2-main.c:16: WARNING: please, no spaces at the start of a line
+2-main.c:17: WARNING: please, no spaces at the start of a line
+2-main.c:18: WARNING: please, no spaces at the start of a line
+2-main.c:19: WARNING: please, no spaces at the start of a line
+2-main.c:20: WARNING: please, no spaces at the start of a line
+2-main.c:21: WARNING: please, no spaces at the start of a line
+2-main.c:22: WARNING: please, no spaces at the start of a line
+2-main.c:23: WARNING: please, no spaces at the start of a line
+2-main.c:24: WARNING: please, no spaces at the start of a line
+2-main.c:25: WARNING: please, no spaces at the start of a line
+total: 0 errors, 12 warnings, 26 lines checked
+main
+
+========== 3-add_nodeint_end.c ==========
+add_nodeint_end
+
+========== 3-main.c ==========
+3-main.c:13: WARNING: please, no spaces at the start of a line
+3-main.c:15: WARNING: please, no spaces at the start of a line
+3-main.c:16: WARNING: please, no spaces at the start of a line
+3-main.c:17: WARNING: please, no spaces at the start of a line
+3-main.c:18: WARNING: please, no spaces at the start of a line
+3-main.c:19: WARNING: please, no spaces at the start of a line
+3-main.c:20: WARNING: please, no spaces at the start of a line
+3-main.c:21: WARNING: please, no spaces at the start of a line
+3-main.c:22: WARNING: please, no spaces at the start of a line
+3-main.c:23: WARNING: please, no spaces at the start of a line
+3-main.c:24: WARNING: please, no spaces at the start of a line
+3-main.c:25: WARNING: please, no spaces at the start of a line
+total: 0 errors, 12 warnings, 26 lines checked
+main
+
+========== 4-free_listint.c ==========
+free_listint
+
+========== 4-main.c ==========
+4-main.c:13: WARNING: please, no spaces at the start of a line
+4-main.c:15: WARNING: please, no spaces at the start of a line
+4-main.c:16: WARNING: please, no spaces at the start of a line
+4-main.c:17: WARNING: please, no spaces at the start of a line
+4-main.c:18: WARNING: please, no spaces at the start of a line
+4-main.c:19: WARNING: please, no spaces at the start of a line
+4-main.c:20: WARNING: please, no spaces at the start of a line
+4-main.c:21: WARNING: please, no spaces at the start of a line
+4-main.c:22: WARNING: please, no spaces at the start of a line
+4-main.c:23: WARNING: please, no spaces at the start of a line
+4-main.c:24: WARNING: please, no spaces at the start of a line
+4-main.c:25: WARNING: please, no spaces at the start of a line
+4-main.c:26: WARNING: please, no spaces at the start of a line
+4-main.c:27: WARNING: please, no spaces at the start of a line
+total: 0 errors, 14 warnings, 28 lines checked
+main
+
+========== 5-free_listint2.c ==========
+free_listint2
+
+========== 5-main.c ==========
+5-main.c:13: WARNING: please, no spaces at the start of a line
+5-main.c:15: WARNING: please, no spaces at the start of a line
+5-main.c:16: WARNING: please, no spaces at the start of a line
+5-main.c:17: WARNING: please, no spaces at the start of a line
+5-main.c:18: WARNING: please, no spaces at the start of a line
+5-main.c:19: WARNING: please, no spaces at the start of a line
+5-main.c:20: WARNING: please, no spaces at the start of a line
+5-main.c:21: WARNING: please, no spaces at the start of a line
+5-main.c:22: WARNING: please, no spaces at the start of a line
+5-main.c:23: WARNING: please, no spaces at the start of a line
+5-main.c:24: WARNING: please, no spaces at the start of a line
+5-main.c:25: WARNING: please, no spaces at the start of a line
+5-main.c:26: WARNING: please, no spaces at the start of a line
+5-main.c:27: WARNING: please, no spaces at the start of a line
+total: 0 errors, 14 warnings, 28 lines checked
+main
+
+========== 6-main.c ==========
+6-main.c:13: WARNING: please, no spaces at the start of a line
+6-main.c:14: WARNING: please, no spaces at the start of a line
+6-main.c:16: WARNING: please, no spaces at the start of a line
+6-main.c:17: WARNING: please, no spaces at the start of a line
+6-main.c:18: WARNING: please, no spaces at the start of a line
+6-main.c:19: WARNING: please, no spaces at the start of a line
+6-main.c:20: WARNING: please, no spaces at the start of a line
+6-main.c:21: WARNING: please, no spaces at the start of a line
+6-main.c:22: WARNING: please, no spaces at the start of a line
+6-main.c:23: WARNING: please, no spaces at the start of a line
+6-main.c:24: WARNING: please, no spaces at the start of a line
+6-main.c:25: WARNING: please, no spaces at the start of a line
+6-main.c:26: WARNING: please, no spaces at the start of a line
+6-main.c:27: WARNING: please, no spaces at the start of a line
+6-main.c:28: WARNING: please, no spaces at the start of a line
+6-main.c:29: WARNING: please, no spaces at the start of a line
+6-main.c:30: WARNING: please, no spaces at the start of a line
+6-main.c:31: WARNING: please, no spaces at the start of a line
+6-main.c:32: WARNING: please, no spaces at the start of a line
+6-main.c:33: WARNING: please, no spaces at the start of a line
+6-main.c:34: WARNING: please, no spaces at the start of a line
+total: 0 errors, 21 warnings, 35 lines checked
+main
+
+========== 6-pop_listint.c ==========
+pop_listint
